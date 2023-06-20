@@ -2,6 +2,8 @@
 
 O objetivo do Projeto foi criar uma base de dados com informações geográficas, e apresentar as informações, consultas e também o mapa com as localizações.
 
+A apresentação pode ser encontrada [aqui](/Apresentacao_ProjetoFinal.pdf).
+
 ![imagem banco de dados](/Img/Banco_de_dados/Banco_de_dados.png)
 > Base de dados feita dentro SpatiaLite
 
