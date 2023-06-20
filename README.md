@@ -46,17 +46,17 @@ Para elaboração deste projeto foi escolhido dentro de uma gama de possibilidad
 ![imagem tabela Restaurantes](/Img/Banco_de_dados/Tabela_restaurantes.png)
 > Tabela de Restaurantes
 ---
-![imagem das ruas](/Img/Mapa_qgiz/Ruas_balnearioCamboriu.png)
+![imagem das ruas](/Img/Mapa_qgis/Ruas_balnearioCamboriu.png)
 > Imagem das ruas de Balneário Camboriú
 ---
-![imagem das ruas](/Img/Mapa_qgiz/Ruas_camboriu.png)
+![imagem das ruas](/Img/Mapa_qgis/Ruas_camboriu.png)
 > Imagem das ruas de Camboriú
 --- 
 ### Resultado Final do Mapa
-![imagem mapa](/Img/Mapa_qgiz/MapaPopulado.png)
+![imagem mapa](/Img/Mapa_qgis/MapaPopulado.png)
 
 # Consultas SQL
-As consulta foram feita no banco de dados Spacialite, sendo 6 consultas não espaciais e 5 consultas espaciais, as consultas podem ser visualizadas abaixo, ou nas pasta que contem os prints tirados das consulta dentro do QGIZ [Consulta Espacial](/Img/Consulta_espacial/) e [Consulta Não Espacial](/Img/Consulta_nao_espacial/).
+As consulta foram feita no banco de dados Spacialite, sendo 6 consultas não espaciais e 5 consultas espaciais, as consultas podem ser visualizadas abaixo, ou nas pasta que contem os prints tirados das consulta dentro do QGIS [Consulta Espacial](/Img/Consulta_espacial/) e [Consulta Não Espacial](/Img/Consulta_nao_espacial/).
 
 ## 6 - Consultas Não Espaciais
 
